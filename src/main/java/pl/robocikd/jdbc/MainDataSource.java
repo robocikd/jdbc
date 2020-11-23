@@ -1,4 +1,4 @@
-package pl.robocikd;
+package pl.robocikd.jdbc;
 
 import com.mysql.cj.jdbc.MysqlDataSource;
 

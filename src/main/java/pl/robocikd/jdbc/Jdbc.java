@@ -1,4 +1,4 @@
-package pl.robocikd;
+package pl.robocikd.jdbc;
 
 import java.sql.*;
 
